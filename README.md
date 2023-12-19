@@ -1,3 +1,3 @@
 # threejs-star
 
-Star effects using three.js
+Trying to create star effects using three.js.
