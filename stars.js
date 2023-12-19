@@ -17,7 +17,7 @@ function createStarField() {
   for (let i = 0; i < starCount; i++) {
     const index = i * 3;
     positions[index] = (Math.random() - 0.5) * 1000;
-    positions[index + 1] = (Math.random() - 0.5) * 1000;
+    positions[index + 1] = (Math.random() - 0.5) * 1000; 
     positions[index + 2] = Math.random() * 1000;
     positions[index + 3] = (Math.random() + 0.5) * 2000;
 
